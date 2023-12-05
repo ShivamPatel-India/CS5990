@@ -1,5 +1,3 @@
-# CS5990
-
 # Lane Detection in Adverse Weather Conditions
 
 Lane Detection in Adverse Weather Conditions is a Python-based project focused on enhancing lane detection accuracy in challenging weather conditions like rain and clouds. Leveraging the CARLA Simulator and various sensors, including LiDAR, RGB, and depth cameras, the project utilizes the Hough Transform algorithm for robust lane detection.
