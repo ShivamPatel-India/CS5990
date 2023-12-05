@@ -34,6 +34,7 @@ Lane Detection in Adverse Weather Conditions is a Python-based project focused o
 
 To run the Lane Detection in Adverse Weather Conditions project, follow these steps:
 
+0. Check your machines specifications whether they met the requirements of CARLA simulator or not. Because CARLA requires high GPU specs.
 1. Clone the repository
 2. Install dependencies 
 3. Run the project
