@@ -26,7 +26,7 @@ Lane Detection in Adverse Weather Conditions is a Python-based project focused o
   - Python
 
 - **Tools:**
-  - CARLA Simulator
+  - CARLA Simulator (version 0.9.5)
   - OpenCV
   - NumPy
 
